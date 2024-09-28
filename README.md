@@ -12,7 +12,7 @@ I have worked on a data analysis company that visualized public school data for 
 
 - **Programming Languages**:
   - Python: Experienced in data analysis, automation scripts, and building machine learning models.
-  - Java: Worked on backend development and enterprise applications.
+  - Java: Worked on backend development and personal projects.
   - Delphi/Pascal: Very similar to C and our current team use it for development.
   
 - **Frameworks and Libraries**:
